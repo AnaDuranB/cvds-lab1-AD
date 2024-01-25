@@ -1,7 +1,6 @@
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES:Johan Estrada, Ana Duran, JuanD xd
+AUTORES:Johan Estrada, Ana Duran, Juan David García
 
-Juan David
 
 CAPITULO UNO
 
@@ -9,4 +8,3 @@ CAPITULO DOS
 
 CAPITULO TRES
 
-:v
