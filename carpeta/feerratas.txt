@@ -5,3 +5,5 @@ FE DE ERRATAS
 =======
 * El término de la página (por lo general) 15 es impreciso.
 >>>>>>> 45dd0dacb756bc2bdcea0a0f1854e63208e9ddd5
+
+Ronaldo>Messi
