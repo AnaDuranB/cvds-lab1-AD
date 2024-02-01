@@ -22,3 +22,4 @@ Mis conocimientos en javascript se limitan a:
 console.log("Hello, world!")
 ```
 
+El vídeo que más me da risa de youtube es https://youtu.be/m92lHLeYTY8?si=Su2AESJnOu_LTo1O :D
