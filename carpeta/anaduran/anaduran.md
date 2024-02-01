@@ -24,7 +24,7 @@ console.log("Hello, world!")
 
 El vídeo que más me da risa de youtube es https://youtu.be/m92lHLeYTY8?si=Su2AESJnOu_LTo1O :D
 
-Una receta para hacer la pasta alfredo:
+Una receta para hacer la **pasta alfredo**:
 
 1. comprar la pasta (indispensable) y pollo
 2. picar el pollo en cuadritos y sazonar, fritar en una paila
