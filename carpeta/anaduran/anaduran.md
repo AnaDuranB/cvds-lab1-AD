@@ -45,6 +45,9 @@ Una receta para hacer la **pasta alfredo**:
 
 ## Pantallazos:
 
+### Principal
 ![principal1](principal1.jpg)
+![principal2](principal2.jpg)
 
-
+### Remota
+![principal2](remota.jpg)
