@@ -42,3 +42,8 @@ Una receta para hacer la **pasta alfredo**:
 8. poner la pasta en la olla
 9. agregar el pollo a la pasta
 10. servir :D
+
+## Pantallazos:
+
+![principal1](principal1.png)
+
