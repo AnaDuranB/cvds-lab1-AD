@@ -45,5 +45,6 @@ Una receta para hacer la **pasta alfredo**:
 
 ## Pantallazos:
 
-![principal1](carpeta/anaduran/principal1.png)
+![principal1](principal1.png)
+
 
