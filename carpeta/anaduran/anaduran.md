@@ -24,7 +24,7 @@ console.log("Hello, world!")
 
 El vídeo que más me da risa de youtube es https://youtu.be/m92lHLeYTY8?si=Su2AESJnOu_LTo1O :D
 
-El vídeo que más me da risa de [YouTube](https://youtu.be/m92lHLeYTY8?si=Su2AESJnOu_LTo1O) es ese :D
+Mi youtuber favorita es [Ter](https://www.youtube.com/@Ter)!!
 
 
 Una receta para hacer la **pasta alfredo**:
