@@ -19,7 +19,7 @@ Estudie en el colegio *nuestra señora de la salud de supatá* desde preescolar 
 Mi primer acercamiento a la programacion fue un hello world en mi primera clase de aypr en la [Escuela Colombiana de Ingeniería](https://escuelaing.edu.co/)
 ```python
 print("Hello, World!")
-
+```
 
 avances del taller
 
