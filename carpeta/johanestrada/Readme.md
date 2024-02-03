@@ -15,3 +15,7 @@ Estudie en el colegio *nuestra señora de la salud de supatá* desde preescolar 
 1. ingenieria de sistemas
 2. matematicas
 3. ingenieria industrial
+
+Mi primer acercamiento a la programacion fue un hello world en mi primera clase de aypr en la [Escuela Colombiana de Ingeniería](https://escuelaing.edu.co/)
+```python
+print("Hello, World!")
