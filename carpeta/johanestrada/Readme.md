@@ -23,3 +23,6 @@ print("Hello, World!")
 
 avances del taller
 
+![Avance](https://github.com/anndr0/cvds-lab1-AD/raw/main/carpeta/johanestrada/WhatsApp%20Image%202024-02-02%20at%2011.41.51%20PM.jpeg)
+![Avance](https://github.com/anndr0/cvds-lab1-AD/blob/main/carpeta/johanestrada/WhatsApp%20Image%202024-02-02%20at%2011.41.51%20PM%20(1).jpeg)
+![Avance](https://github.com/anndr0/cvds-lab1-AD/blob/main/carpeta/johanestrada/WhatsApp%20Image%202024-02-02%20at%2011.41.51%20PM%20(2).jpeg)
