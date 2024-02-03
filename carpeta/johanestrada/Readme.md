@@ -11,7 +11,7 @@
 * lectura
 
 ## Datos academicos
-Estudie en el colegio -nuestra señora de la salud de supatá- desde preescolar hasta grado 11, mis opciones para estudiar fueron:
+Estudie en el colegio *nuestra señora de la salud de supatá* desde preescolar hasta grado 11, mis opciones para estudiar fueron:
 1. ingenieria de sistemas
 2. matematicas
 3. ingenieria industrial
